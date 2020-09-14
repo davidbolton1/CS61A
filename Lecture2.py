@@ -21,3 +21,12 @@ def area():
   return pi * radius * radius
 
 area()
+
+
+## primitives
+number = 1
+name = job
+string = "david"
+
+##call expressions
+max(2, 3)

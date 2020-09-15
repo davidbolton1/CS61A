@@ -30,3 +30,10 @@ string = "david"
 
 ##call expressions
 max(2, 3)
+
+
+from operator import mul
+def square(x):
+    return mul(x, x)
+
+square(-2)
